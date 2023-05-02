@@ -1,0 +1,3 @@
+/home/artem627/Документы/Projects/Game3DFirst/build/CMakeFiles/Game.dir
+/home/artem627/Документы/Projects/Game3DFirst/build/CMakeFiles/edit_cache.dir
+/home/artem627/Документы/Projects/Game3DFirst/build/CMakeFiles/rebuild_cache.dir
